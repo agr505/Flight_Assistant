@@ -1,0 +1,10 @@
+C:\Users\Aaron\Desktop\Applied Database Systems\Flight_Assistant\Flight_Assistant\bin\Debug\Flight_Assistant.exe.config
+C:\Users\Aaron\Desktop\Applied Database Systems\Flight_Assistant\Flight_Assistant\obj\Debug\Flight_Assistant.Properties.Resources.resources
+C:\Users\Aaron\Desktop\Applied Database Systems\Flight_Assistant\Flight_Assistant\obj\Debug\Flight_Assistant.csproj.GenerateResource.Cache
+C:\Users\Aaron\Desktop\Applied Database Systems\Flight_Assistant\Flight_Assistant\bin\Debug\Flight_Assistant.exe
+C:\Users\Aaron\Desktop\Applied Database Systems\Flight_Assistant\Flight_Assistant\bin\Debug\Flight_Assistant.pdb
+C:\Users\Aaron\Desktop\Applied Database Systems\Flight_Assistant\Flight_Assistant\obj\Debug\Flight_Assistant.exe
+C:\Users\Aaron\Desktop\Applied Database Systems\Flight_Assistant\Flight_Assistant\obj\Debug\Flight_Assistant.pdb
+C:\Users\Aaron\Desktop\Applied Database Systems\Flight_Assistant\Flight_Assistant\bin\Debug\MySql.Data.dll
+C:\Users\Aaron\Desktop\Applied Database Systems\Flight_Assistant\Flight_Assistant\obj\Debug\Flight_Assistant.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Applied Database Systems\Flight_Assistant\Flight_Assistant\obj\Debug\Flight_Assistant.Form1.resources
